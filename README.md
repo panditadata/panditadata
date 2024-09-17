@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @panditadata
-- 👀 I’m interested in python, js, html, folium, leaflet, and Py libraries, Data Science
-- 🌱 I’m currently learning python, and Py libraries, Data Science
-- 💞️ I’m looking to collaborate on python, and Py libraries, Data Science
+- 👀 I’m interested in AI Data Science With Python
+- 🌱 I’m currently learning  AI Data Science With Python
+- 💞️ I’m looking to collaborate always
 - 📫 How to reach me panditadata@gmail.com
 
 <!---
